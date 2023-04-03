@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-auth-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-auth-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-cart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-coupon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-coupon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-member/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-seckill/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-seckill/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-third-party/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-third-party/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-ware/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/gulimall-ware/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/renren-fast/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/renren-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/renren-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall/sql/gulimall_oms.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gulimall/sql/gulimall_pms.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gulimall/sql/gulimall_sms.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gulimall/sql/gulimall_ums.sql" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
