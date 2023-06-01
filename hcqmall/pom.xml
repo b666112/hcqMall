@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.hcq.hcqmall</groupId>
+    <artifactId>hcqmall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>hcqmall</name>
+    <description>谷粒商城-聚合服务</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>hcqmall-common</module>
+        <module>hcqmall-coupon</module>
+        <module>hcqmall-gateway</module>
+        <module>hcqmall-member</module>
+        <module>hcqmall-order</module>
+        <module>hcqmall-product</module>
+        <module>hcqmall-third-party</module>
+        <module>hcqmall-ware</module>
+        <module>hcqmall-search</module>
+        <module>renren-generator</module>
+        <module>hcqmall-auth-server</module>
+        <module>hcqmall-cart</module>
+        <module>hcqmall-seckill</module>
+        <module>renren-fast</module>
+    </modules>
+
+
+</project>

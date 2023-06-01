@@ -1,0 +1,13 @@
+package com.hcq.hcqmall.ware.dao;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.hcq.hcqmall.ware.entity.WareOrderTaskEntity;
+import org.apache.ibatis.annotations.Mapper;
+
+/**
+ * @author huchangqi
+ */
+@Mapper
+public interface WareOrderTaskDao extends BaseMapper<WareOrderTaskEntity> {
+	
+}
