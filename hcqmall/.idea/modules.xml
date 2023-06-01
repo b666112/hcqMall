@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hcqmall.iml" filepath="$PROJECT_DIR$/hcqmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-auth-server/hcqmall-auth-server.iml" filepath="$PROJECT_DIR$/hcqmall-auth-server/hcqmall-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-cart/hcqmall-cart.iml" filepath="$PROJECT_DIR$/hcqmall-cart/hcqmall-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-common/hcqmall-common.iml" filepath="$PROJECT_DIR$/hcqmall-common/hcqmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-coupon/hcqmall-coupon.iml" filepath="$PROJECT_DIR$/hcqmall-coupon/hcqmall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-gateway/hcqmall-gateway.iml" filepath="$PROJECT_DIR$/hcqmall-gateway/hcqmall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-member/hcqmall-member.iml" filepath="$PROJECT_DIR$/hcqmall-member/hcqmall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-order/hcqmall-order.iml" filepath="$PROJECT_DIR$/hcqmall-order/hcqmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-product/hcqmall-product.iml" filepath="$PROJECT_DIR$/hcqmall-product/hcqmall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-search/hcqmall-search.iml" filepath="$PROJECT_DIR$/hcqmall-search/hcqmall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-seckill/hcqmall-seckill.iml" filepath="$PROJECT_DIR$/hcqmall-seckill/hcqmall-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-third-party/hcqmall-third-party.iml" filepath="$PROJECT_DIR$/hcqmall-third-party/hcqmall-third-party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcqmall-ware/hcqmall-ware.iml" filepath="$PROJECT_DIR$/hcqmall-ware/hcqmall-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
+    </modules>
+  </component>
+</project>
